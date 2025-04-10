@@ -1,6 +1,6 @@
 NAME=LN-ASG
 
-PORT=4055
+PORT=4051
 
 USER=softioc
 
