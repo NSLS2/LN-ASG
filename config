@@ -1,0 +1,10 @@
+NAME=LN-ASG
+
+PORT=4055
+
+USER=softioc
+
+HOST=rfctrl01-vm
+
+CHDIR="$CHDIR/iocBoot/ioclnAsg"
+EXEC="$CHDIR/st.cmd"
