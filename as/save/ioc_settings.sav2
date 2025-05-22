@@ -1,6 +1,4 @@
-# autosave R5.3	Automatically generated - DO NOT MODIFY - 250410-131613
-LN-RF{TEST}E:HVPS-SP.VAL 969
-RF-CT{ioclnAsg}:START_CNT.VAL 51
+# autosave R5.3	Automatically generated - DO NOT MODIFY - 250522-085813
 RF-CT{ioclnAsg}:CA_CLNT_CNT.HOPR 200
 RF-CT{ioclnAsg}:CA_CLNT_CNT.LOPR 0
 RF-CT{ioclnAsg}:CA_CLNT_CNT.HIHI 175
@@ -57,10 +55,12 @@ RF-CT{ioclnAsg}:MEM_FREE.LOW 0
 RF-CT{ioclnAsg}:MEM_FREE.LOLO 0
 RF-CT{ioclnAsg}:MEM_FREE.LSV 1
 RF-CT{ioclnAsg}:MEM_FREE.LLSV 2
+LN-RF{TEST}E:HVPS-SP.VAL 969
 RF-CT{ioclnAsg}:FD_FREE.HOPR 150
 RF-CT{ioclnAsg}:FD_FREE.LOPR 0
 RF-CT{ioclnAsg}:FD_FREE.LOW 20
 RF-CT{ioclnAsg}:FD_FREE.LOLO 5
 RF-CT{ioclnAsg}:FD_FREE.LSV 1
 RF-CT{ioclnAsg}:FD_FREE.LLSV 2
+RF-CT{ioclnAsg}:START_CNT.VAL 55
 <END>
